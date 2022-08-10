@@ -1,7 +1,7 @@
 const express = require('express');   // Part #1 Point 1  install express
 const path = require ('path'); 
 const cors = require('cors');
-const port= process.env.PORT || 5000;
+const port= 5000;
 
 const nav= [
     {
