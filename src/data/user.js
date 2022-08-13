@@ -1,13 +1,16 @@
 var users=[{
-    "uid":"aiswaryawalter@gmail.com",  //Part #2 Point 6 id is removed since its not available for new users
+    "id":1,
+    "uid":"aiswaryawalter@gmail.com",   
     "pwd":"aiswarya"
 },
 {
-    "uid":"surya@gmail.com",  //Part #2 Point 6 id is removed since its not available for new users
+    "id":2,
+    "uid":"surya@gmail.com", 
     "pwd":"surya"
 },
 {
-    "uid":"bazith@gmail.com",  //Part #2 Point 6 id is removed since its not available for new users
+    "id":3,
+    "uid":"bazith@gmail.com",  
     "pwd":"bazith"
 }
 ]
