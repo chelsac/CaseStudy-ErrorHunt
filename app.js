@@ -1,7 +1,7 @@
 const express = require('express');      
 const path = require ('path'); 
 const cors = require('cors');
-const port= 5000;
+const port= process.env.PORT || 5000;
 
 // const nav= [                         //Part #2 Point 6
 //     {
