@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-mongoose.connect('mongodb+srv://admin:admin@cluster0.817hltv.mongodb.net/?retryWrites=true&w=majority');
+mongoose.connect('mongodb+srv://test:test@cluster0.ejygs4h.mongodb.net/?retryWrites=true&w=majority');
 const Schema = mongoose.Schema;
 mongoose.set('useFindAndModify', false); //Part #2 Point 9  adding proper method
 
